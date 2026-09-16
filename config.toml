@@ -10,7 +10,6 @@ parallel-jobs = 1
 app-name = "Proton Mail"
 patches-source = "hxreborn/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
-rv-brand = "Morphe"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email"
 uptodown-dlurl = "https://protonmail.en.uptodown.com/android"
