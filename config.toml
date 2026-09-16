@@ -7,10 +7,10 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [Proton-Mail]
-app-name = "Proton Mail"
+build-mode = "both"
 patches-source = "hxreborn/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
 uptodown-dlurl = "https://protonmail.en.uptodown.com/android"
 enable-update-checks = true
-arch = "arm64-v8a" 
+
