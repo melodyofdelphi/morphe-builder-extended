@@ -13,4 +13,4 @@ cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email"
 uptodown-dlurl = "https://protonmail.en.uptodown.com/android"
 enable-update-checks = true
-arch = "both"
+arch = "arm64-v8a" 
