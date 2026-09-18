@@ -6,11 +6,12 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[Proton-Mail]
-app-name = "Proton Mail"
-patches-source = "hxreborn/morphe-patches"
+[Pinterest]
+patches-source = "SouBryan/pinterest-morphed"
 cli-source = "MorpheApp/morphe-cli"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
-uptodown-dlurl = "https://protonmail.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/pinterest/pinterest-one-destination-for-a-world-of-inspiration/"
+uptodown-dlurl = "https://pinterest.en.uptodown.com/android"
 enable-update-checks = true
+dpi = "480-640dpi"
+arch = "arm64-v8a"  
 
